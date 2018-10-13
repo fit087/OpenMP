@@ -1,0 +1,2 @@
+# OpenMP
+OpenMp Introductory Course
